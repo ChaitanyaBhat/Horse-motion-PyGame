@@ -1,4 +1,4 @@
-HORSE MOTION ILLUSTRATION
+# HORSE MOTION ILLUSTRATION
 
 Using Python PyGame motion of a horse is illustrated here.
 ![horse-motion2](https://user-images.githubusercontent.com/58632626/151353970-5c4378a3-4a94-4530-bb4e-3547cdb1e0dd.png)
